@@ -1,3 +1,5 @@
+# 7/24
+- 
 # 7/10
 - "in Praise of Folly - Goal, Praise, and Cognition" Laura Schulz
 - intro
