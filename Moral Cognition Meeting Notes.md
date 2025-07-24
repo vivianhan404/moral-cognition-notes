@@ -1,0 +1,53 @@
+# 7/10
+- "in Praise of Folly - Goal, Praise, and Cognition" Laura Schulz
+- intro
+	- what people have done with kids 
+		- focused on moral/conventional, harm/fairness, etc
+	- exceptions
+		- what have they done (in detail)
+	- outside developmental literature...
+		- philosophers
+		- psychologists (adult studies)
+		- maybe just how to characterize harm
+	- relatively little work has looked at how people generate justifications and explanations
+		- detail the work
+	- key words
+		- moral psychology
+		- moral reasoning
+		- really really skim moral philosophy
+			- GPT
+			- stanford encyclopedia
+- potential follow-ups
+	- reasoning vs exoneration
+	- asymmetry in reasoning about prosocial and antisocial actions
+		- reasons to help are less interesting and more homogenous
+- create OSF
+# 7/3
+- categories
+	- create triads
+- make forced choices as simple as possible
+	- 3 reasons much harder than 2
+	- start with target and distracter
+	- "now it's your turn" -> open ended after a bunch of repetition
+		- 'do you think this is wrong or not' then why
+- exp 1 - replication
+- exp 2 - open-
+# 6/30
+- read theory papers
+	- mechanisms for resource-rational approximations of rules
+	- implicit vs explicit mechanisms
+- Audun Duhl - kids' explanations/justifications
+- look over stimuli and data collected
+	- figure out what's missing
+	- propose follow-up
+# 6/19
+- Sydney Levine's study
+	- look into philosophical background
+	- Rules and Reasoning
+- parental interference
+	- Julia is getting it a lot in person
+	- finding online measures is hard
+	- use GPT to find studies that drop children for interference
+		- what do they have in common
+	- transition between developing joint attention
+		- parents sensitive to younger babies don't look and compensate

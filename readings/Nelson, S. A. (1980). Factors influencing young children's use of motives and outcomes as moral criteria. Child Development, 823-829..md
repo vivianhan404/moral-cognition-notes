@@ -1,0 +1,12 @@
+---
+aliases:
+  - Nelson 1980
+---
+- previous research is mixed as to whether children account for motives
+	- some experiments didn't explicitly show motives, so maybe children misunderstood
+- storybook showing motive, behavior, and outcome
+	- use visuals to reduce memory constraints
+- rate good to bad scale of 1-7
+- 3yo vs 7yo
+- "When stories are presented verbally, information following negative cues has diminished impact on preschoolers' moral judgments. In contrast, when stories are presented accompanied by pictures, judgments are more likely to be influenced by both good and bad motives and by good and bad out-comes"
+- 3yo recalling story distort so that motive and outcome are causally congruent
