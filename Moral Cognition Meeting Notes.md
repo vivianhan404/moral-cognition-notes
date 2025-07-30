@@ -1,5 +1,18 @@
 # 7/24
-- 
+- Jonathan Haidt
+	- + who he cites
+	- moral explanations children cross cultural
+- Josh Green
+- tania lombrozo moral reasons
+	- causal explanation work in general
+- design
+	- tell stories, ask for explanations
+		- ask about emotional states
+		- just to get kids talking
+	- tell moral stories
+		- open response
+	- 4-5 yo for pilot
+		- 3-6 with preregistered categories for actual
 # 7/10
 - "in Praise of Folly - Goal, Praise, and Cognition" Laura Schulz
 - intro
